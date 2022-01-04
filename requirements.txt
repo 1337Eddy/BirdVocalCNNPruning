@@ -1,0 +1,6 @@
+numpy
+librosa
+PIL
+tqdm
+matplotlib
+tensorflow
